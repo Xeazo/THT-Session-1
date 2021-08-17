@@ -1,0 +1,26 @@
+Algorithms
+Case: menentukan bilangan negatif, nol, dan positif
+
+Aproach 1: menentukan jika dia nol
+Aproach 2: menentukan jika dia negatif
+Aproach 3: menentukan jika dia positif
+
+Pseudocode:
+1  Input Bilangan
+2  hasil sama dengan ""
+3	if bilangan sama dengan nol
+4		hasil sama dengan "bilangan nol"
+5	else if bilangan kurang dari nol
+6		hasil sama dengan "bilangan negatif"
+7	else bilangan lebih dari nol
+8		hasil sama dengan "bilangan positif"
+9  cetak hasil
+10 keluar
+
+
+	
+
+
+
+
+
